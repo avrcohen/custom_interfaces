@@ -1,0 +1,7 @@
+int32 desired_joint
+float32 desired_angle
+---
+bool sequence
+---
+int32 current_joint
+float32 current_angle
